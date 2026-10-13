@@ -1,0 +1,154 @@
+company,sector,ats,board_slug,feed_url,register_legal_name,register_town,sponsor_status,uk_roles_13oct,finance_titles_13oct,notes,last_checked
+Accurx,health,ashby,accurx,https://api.ashbyhq.com/posting-api/job-board/accurx?includeCompensation=true,AccuRx Limited,London,confirmed,15,Head of Finance - 12 month FTC,,2026-10-13
+Allica Bank,fintech,ashby,allica-bank,https://api.ashbyhq.com/posting-api/job-board/allica-bank?includeCompensation=true,Allica Bank,London,confirmed,19,Regional Lead - Cashflow Finance; Financial Accountant; Invoice Finance Business Development Manager,,2026-10-13
+Apollo Research,saas,lever,apolloresearch,https://api.lever.co/v0/postings/apolloresearch?mode=json,Apollo Research AI Ltd,London,confirmed,11,Finance Manager,its Finance Manager ad said no visa sponsorship: check each ad,2026-10-13
+Attio,saas,ashby,attio,https://api.ashbyhq.com/posting-api/job-board/attio?includeCompensation=true,Attio Limited,London,confirmed,15,,,2026-10-13
+Beamery,saas,ashby,beamery,https://api.ashbyhq.com/posting-api/job-board/beamery?includeCompensation=true,Beamery Ltd,London,confirmed,4,,,2026-10-13
+Birdie,health,ashby,birdie,https://api.ashbyhq.com/posting-api/job-board/birdie?includeCompensation=true,Birdie Care Services Limited,London,confirmed,1,,,2026-10-13
+Carta,saas,greenhouse,carta,https://boards-api.greenhouse.io/v1/boards/carta/jobs?content=true,Carta Financial Services Limited,London,confirmed,18,Finance and Equity Analyst - Rotational Program; Finance and Equity Analyst - Rotational Program; People Systems Manager (Payroll/HCM Manager); Senior Accountants Receivable Accountant (Billing); Senior Fund Accountant,large,2026-10-13
+Carwow,marketplace,ashby,carwow,https://api.ashbyhq.com/posting-api/job-board/carwow?includeCompensation=true,carwow Ltd.,London,confirmed,17,Transactional Financial Controller,,2026-10-13
+Cleo,fintech,greenhouse,cleo,https://boards-api.greenhouse.io/v1/boards/cleo/jobs?content=true,Cleo AI Ltd,,confirmed,4,,,2026-10-13
+Codat,fintech,ashby,codat,https://api.ashbyhq.com/posting-api/job-board/codat?includeCompensation=true,Codat Limited,London,confirmed,3,,,2026-10-13
+Cognism,saas,greenhouse,cognism,https://boards-api.greenhouse.io/v1/boards/cognism/jobs?content=true,Cognism Limited,London,confirmed,8,,,2026-10-13
+CoMind,health,ashby,comind,https://api.ashbyhq.com/posting-api/job-board/comind?includeCompensation=true,CoMind Technologies Limited,London,confirmed,11,,small,2026-10-13
+Conveo,saas,ashby,conveo,https://api.ashbyhq.com/posting-api/job-board/conveo?includeCompensation=true,Conveo.ai UK Ltd,Altrincham,confirmed,3,,small; Altrincham,2026-10-13
+Deliveroo,marketplace,ashby,deliveroo,https://api.ashbyhq.com/posting-api/job-board/deliveroo?includeCompensation=true,Roofoods Ltd t/a Deliveroo,London,confirmed,4,,large,2026-10-13
+Ebury,fintech,greenhouse,ebury,https://boards-api.greenhouse.io/v1/boards/ebury/jobs?content=true,Ebury Partners UK Ltd,London,confirmed,22,Financial Accountant Intern,large,2026-10-13
+ElevenLabs,saas,ashby,elevenlabs,https://api.ashbyhq.com/posting-api/job-board/elevenlabs?includeCompensation=true,Eleven Labs Ltd,,confirmed,57,FP&A Lead,,2026-10-13
+Elliptic,fintech,ashby,elliptic,https://api.ashbyhq.com/posting-api/job-board/elliptic?includeCompensation=true,Elliptic Enterprises Limited,London,confirmed,12,,,2026-10-13
+Faculty,saas,ashby,faculty,https://api.ashbyhq.com/posting-api/job-board/faculty?includeCompensation=true,Faculty Science Limited,London,confirmed,81,,,2026-10-13
+Flo Health,health,greenhouse,flohealth,https://boards-api.greenhouse.io/v1/boards/flohealth/jobs?content=true,Flo Health UK Limited,London,confirmed,17,,,2026-10-13
+Freetrade,fintech,ashby,freetrade,https://api.ashbyhq.com/posting-api/job-board/freetrade?includeCompensation=true,Freetrade Limited,London,confirmed,5,,,2026-10-13
+Fyxer,saas,ashby,fyxer,https://api.ashbyhq.com/posting-api/job-board/fyxer?includeCompensation=true,Fyxer AI Limited,London,confirmed,5,,small,2026-10-13
+Genius Sports,saas,greenhouse,geniussports,https://boards-api.greenhouse.io/v1/boards/geniussports/jobs?content=true,Genius Sports UK Ltd,London,confirmed,10,Data Business Partner - Operations; Finance Manager - Americas; Financial Accountant; FP&A Manager; Global Payroll Manager,large,2026-10-13
+GoCardless,fintech,greenhouse,gocardless,https://boards-api.greenhouse.io/v1/boards/gocardless/jobs?content=true,GoCardless Limited,London,confirmed,8,Credit Controller,,2026-10-13
+Goodlord,saas,ashby,goodlord,https://api.ashbyhq.com/posting-api/job-board/goodlord?includeCompensation=true,Oh Goodlord Ltd,,confirmed,6,,,2026-10-13
+Granola,saas,ashby,granola,https://api.ashbyhq.com/posting-api/job-board/granola?includeCompensation=true,Granola Labs,London,confirmed,13,Strategic Finance Lead,small,2026-10-13
+Graphcore,saas,greenhouse,graphcore,https://boards-api.greenhouse.io/v1/boards/graphcore/jobs?content=true,Graphcore Limited,Bristol,confirmed,86,Finance Manager APAC,Bristol,2026-10-13
+Griffin,fintech,ashby,griffin,https://api.ashbyhq.com/posting-api/job-board/griffin?includeCompensation=true,Griffin Bank Ltd,London,confirmed,5,Treasury Manager,small,2026-10-13
+Gymshark,marketplace,greenhouse,gymshark,https://boards-api.greenhouse.io/v1/boards/gymshark/jobs?content=true,Gymshark Ltd,Solihull,confirmed,10,,large; Solihull,2026-10-13
+Isomorphic Labs,health,greenhouse,isomorphiclabs,https://boards-api.greenhouse.io/v1/boards/isomorphiclabs/jobs?content=true,Isomorphic Labs Limited,London,confirmed,15,"Senior Finance Business Partner (Clinical), Cambridge, MA; Senior Finance Business Partner (Drug Design and Development), London, UK",,2026-10-13
+Kaluza,climate,ashby,kaluza,https://api.ashbyhq.com/posting-api/job-board/kaluza?includeCompensation=true,Kaluza Ltd,London,confirmed,21,,,2026-10-13
+Lawhive,saas,ashby,lawhive,https://api.ashbyhq.com/posting-api/job-board/lawhive?includeCompensation=true,Lawhive,London,confirmed,2,Senior FP&A Analyst,small,2026-10-13
+Ledgy,saas,greenhouse,ledgy,https://boards-api.greenhouse.io/v1/boards/ledgy/jobs?content=true,Ledgy Limited,London,confirmed,4,,small,2026-10-13
+Lendable,fintech,ashby,lendable,https://api.ashbyhq.com/posting-api/job-board/lendable?includeCompensation=true,Lendable Operations Ltd,London,confirmed,62,Financial Operations Executive; Treasury Manager; Senior Accountant,,2026-10-13
+Lottie,health,ashby,lottie,https://api.ashbyhq.com/posting-api/job-board/lottie?includeCompensation=true,Lottie Organisation Ltd,London,confirmed,5,,small,2026-10-13
+Lovable,saas,ashby,lovable,https://api.ashbyhq.com/posting-api/job-board/lovable?includeCompensation=true,Lovable Labs UK Limited,London,confirmed,18,"Finance & BizOps, Strategic Partnerships; Finance & BizOps, Marketing; Payroll Lead",,2026-10-13
+Marshmallow,fintech,ashby,marshmallow,https://api.ashbyhq.com/posting-api/job-board/marshmallow?includeCompensation=true,Marshmallow Technology Ltd,London,confirmed,11,Financial Reporting and Technical Accountant,,2026-10-13
+Matillion,saas,lever,matillion,https://api.lever.co/v0/postings/matillion?mode=json,Matillion Limited,Salford,confirmed,7,,Manchester area,2026-10-13
+Moneybox,fintech,ashby,moneybox,https://api.ashbyhq.com/posting-api/job-board/moneybox?includeCompensation=true,Digital Moneybox Limited,,confirmed,21,Director of Treasury,several ads say they cannot sponsor: check each ad,2026-10-13
+Monzo,fintech,greenhouse,monzo,https://boards-api.greenhouse.io/v1/boards/monzo/jobs?content=true,Monzo Bank Ltd,London,confirmed,53,Senior Finance Business Partner; Senior Financial Control Analyst; Senior Financial Reporting Analyst,large,2026-10-13
+Moonfare,fintech,greenhouse,moonfare,https://boards-api.greenhouse.io/v1/boards/moonfare/jobs?content=true,Moonfare UK Limited,London,confirmed,3,,,2026-10-13
+Motorway,marketplace,ashby,motorway,https://api.ashbyhq.com/posting-api/job-board/motorway?includeCompensation=true,Motorway Online Limited,London,confirmed,10,,,2026-10-13
+Multiverse,saas,ashby,multiverse,https://api.ashbyhq.com/posting-api/job-board/multiverse?includeCompensation=true,Multiverse Group Limited,London,confirmed,26,Senior Financial Accountant,,2026-10-13
+Nothing,marketplace,greenhouse,nothing,https://boards-api.greenhouse.io/v1/boards/nothing/jobs?content=true,NOTHING TECHNOLOGY LIMITED,London,confirmed,5,,,2026-10-13
+Ohme,climate,greenhouse,ohme,https://boards-api.greenhouse.io/v1/boards/ohme/jobs?content=true,Ohme Operations UK Limited,,confirmed,21,,,2026-10-13
+Ophelos,fintech,greenhouse,ophelos,https://boards-api.greenhouse.io/v1/boards/ophelos/jobs?content=true,Ophelos Ltd,London,confirmed,6,,small,2026-10-13
+Owkin,health,ashby,owkin,https://api.ashbyhq.com/posting-api/job-board/owkin?includeCompensation=true,Owkin UK Ltd,London,confirmed,1,,,2026-10-13
+Paddle,fintech,ashby,paddle,https://api.ashbyhq.com/posting-api/job-board/paddle?includeCompensation=true,Paddle.com Market Limited,London,confirmed,14,Senior FP&A Analyst,,2026-10-13
+PhysicsX,saas,greenhouse,physicsx,https://boards-api.greenhouse.io/v1/boards/physicsx/jobs?content=true,PhysicsX Limited,London,confirmed,15,,,2026-10-13
+Plentific,saas,ashby,plentific,https://api.ashbyhq.com/posting-api/job-board/plentific?includeCompensation=true,Plentific,London,confirmed,15,Finance Assistant,,2026-10-13
+Pleo,saas,ashby,pleo,https://api.ashbyhq.com/posting-api/job-board/pleo?includeCompensation=true,Pleo Technologies Limited,London,confirmed,12,"Senior Accountant - IFRS; Director, Finance Business Partnering",,2026-10-13
+PPRO,fintech,ashby,ppro,https://api.ashbyhq.com/posting-api/job-board/ppro?includeCompensation=true,PPRO Financial Ltd,,confirmed,8,,,2026-10-13
+Primer,fintech,ashby,primer,https://api.ashbyhq.com/posting-api/job-board/primer?includeCompensation=true,Primer API Limited,London,confirmed,5,Senior Accountant,,2026-10-13
+Prolific,saas,greenhouse,prolific,https://boards-api.greenhouse.io/v1/boards/prolific/jobs?content=true,Prolific Academic Ltd,London,confirmed,16,,,2026-10-13
+Quantexa,saas,ashby,quantexa,https://api.ashbyhq.com/posting-api/job-board/quantexa?includeCompensation=true,Quantexa Ltd,London,confirmed,14,Assistant Management Accountant; Financial Controller (Process & Control),,2026-10-13
+Riverlane,saas,greenhouse,riverlane,https://boards-api.greenhouse.io/v1/boards/riverlane/jobs?content=true,Riverlane Ltd,Cambridge,confirmed,26,,Cambridge,2026-10-13
+Snyk,saas,ashby,snyk,https://api.ashbyhq.com/posting-api/job-board/snyk?includeCompensation=true,Snyk Limited,London,confirmed,10,Senior Revenue Accountant,,2026-10-13
+Stability AI,saas,greenhouse,stabilityai,https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs?content=true,Stability AI Ltd,London,confirmed,2,,,2026-10-13
+Sylvera,climate,ashby,sylvera,https://api.ashbyhq.com/posting-api/job-board/sylvera?includeCompensation=true,Sylvera Ltd,London,confirmed,1,,,2026-10-13
+Synthesia,saas,ashby,synthesia,https://api.ashbyhq.com/posting-api/job-board/synthesia?includeCompensation=true,Synthesia Limited,London,confirmed,16,,,2026-10-13
+Thought Machine,fintech,ashby,thought-machine,https://api.ashbyhq.com/posting-api/job-board/thought-machine?includeCompensation=true,Thought Machine Group Limited,London,confirmed,17,Payroll Specialist,,2026-10-13
+Tide,fintech,greenhouse,tide,https://boards-api.greenhouse.io/v1/boards/tide/jobs?content=true,Tide Platform Ltd,,confirmed,22,"Head of Finance Business Partnering, Operations & Technology",large; few UK roles on this board,2026-10-13
+Too Good To Go,climate,ashby,toogoodtogo,https://api.ashbyhq.com/posting-api/job-board/toogoodtogo?includeCompensation=true,Too Good To Go Ltd,London,confirmed,6,Accountant; Head of Group Financial Controlling,,2026-10-13
+Tractable,saas,ashby,tractable,https://api.ashbyhq.com/posting-api/job-board/tractable?includeCompensation=true,TRACTABLE LTD,LONDON,confirmed,1,,,2026-10-13
+TRM Labs,fintech,ashby,trm-labs,https://api.ashbyhq.com/posting-api/job-board/trm-labs?includeCompensation=true,TRM Labs UK Ltd,London,confirmed,5,"Account Director,  Financial Institutions; Senior Product Manager, Financial Institutions; Business Development Executive, Financial Institutions (APAC); Business Development Executive, Financial Institutions (EMEA); Strategic Finance Lead, R&D and AI Infrastructure",,2026-10-13
+Unmind,health,ashby,unmind,https://api.ashbyhq.com/posting-api/job-board/unmind?includeCompensation=true,Unmind Limited,London,confirmed,1,,small,2026-10-13
+Vanta,saas,ashby,vanta,https://api.ashbyhq.com/posting-api/job-board/vanta?includeCompensation=true,Vanta Technology UK Limited,London,confirmed,69,"Senior Data Analyst, Strategic Finance",,2026-10-13
+Wayve,saas,ashby,wayve,https://api.ashbyhq.com/posting-api/job-board/wayve?includeCompensation=true,Wayve Technologies Ltd,London,confirmed,51,,,2026-10-13
+Wordsmith,saas,ashby,wordsmith,https://api.ashbyhq.com/posting-api/job-board/wordsmith?includeCompensation=true,Wordsmith AI Ltd,London,confirmed,13,,small,2026-10-13
+Zilch,fintech,ashby,zilch,https://api.ashbyhq.com/posting-api/job-board/zilch?includeCompensation=true,Zilch Technology Limited,London,confirmed,15,Finance Director; Senior Financial Accountant; Senior Financial Accountant - FTC 12 months,,2026-10-13
+Zopa,fintech,lever,zopa,https://api.lever.co/v0/postings/zopa?mode=json,Zopa Bank Limited,,confirmed,34,FP&A Analyst; Senior FP&A Analyst,,2026-10-13
+Aira,climate,other,,,Aira Home UK Ltd,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Arenko,climate,other,,,Arenko Cleantech Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Banked,fintech,other,,,Banked Ltd,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Bloom & Wild,marketplace,other,,,Bloom and Wild Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Bud,fintech,other,,,Bud Financial Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Carbon Clean,climate,other,,,CARBON CLEAN SOLUTIONS LIMITED,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Cera,health,other,,,Cera Care Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Checkout.com,fintech,other,,,CHECKOUT LTD,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Chip,fintech,other,,,Chip Financial Ltd,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Clearscore,fintech,other,,,Clear Score Technology Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Connected Kerb,climate,other,,,Connected Kerb Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Curve,fintech,other,,,Curve UK Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Cuvva,fintech,other,,,Cuvva Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Depop,marketplace,other,,,Depop Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Dext,saas,other,,,Dext Software Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Electric Miles,climate,other,,,Electric Miles Ltd,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Fresha,saas,other,,,Fresha.com SV Ltd,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Gousto,marketplace,other,,,SCA Investments t/a Gousto,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Habitat Energy,climate,other,,,Habitat Energy,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Huel,marketplace,other,,,Huel Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Huma,health,other,,,HUMA THERAPEUTICS LIMITED,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Juro,saas,other,,,Juro Online Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Kraken Technologies,climate,other,,,Kraken Technologies Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Kriya,fintech,other,,,KRIYA FINANCE LIMITED,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Kroo,fintech,other,,,Kroo Bank Ltd,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Laka,fintech,other,,,Laka Ltd,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+ManyPets,fintech,other,,,ManyPets Ltd,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Mission Zero,climate,other,,,Mission Zero Technologies Ltd,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Mixergy,climate,other,,,Mixergy Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Modulr,fintech,other,,,Modulr Technology Ltd,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Notpla,climate,other,,,Notpla Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Numan,health,other,,,Vir Health Limited trading as Numan,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Octopus Energy,climate,other,,,Octopus Energy Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Olio,climate,other,,,OLIO Exchange Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Omnipresent,saas,other,,,Omnipresent Group Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Papier,marketplace,other,,,PAPIER LTD,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Patchwork Health,health,other,,,Locumtap Ltd T/AS Patchwork Health,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Paysend,fintech,other,,,Paysend Group Ltd,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Peppy,health,other,,,Peppy Health Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Plum,fintech,other,,,Plum Fintech,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Pod Point,climate,other,,,Pod Point Ltd,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Ravelin,fintech,other,,,Ravelin Technology Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Revolut,fintech,other,,,Revolut Ltd,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Satago,fintech,other,,,Satago Financial Solutions Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Satellite Vu,climate,other,,,Global Satellite Vu Ltd,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+SeedLegals,saas,other,,,SEEDLEGALS LTD,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Starling Bank,fintech,other,,,STARLING BANK LIMITED,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Tembo,fintech,other,,,Tembo Ltd,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Thriva,health,other,,,Thriva Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Treatwell,marketplace,other,,,Treatwell Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+TrueLayer,fintech,other,,,TrueLayer Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Tymit,fintech,other,,,Tymit LTD.,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Uncapped,fintech,other,,,UNCAPPED LTD,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Vestd,saas,other,,,Vestd Ltd,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Volt,fintech,other,,,Volt Technologies Holdings Ltd,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Winnow,climate,other,,,Winnow Solutions Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Wise,fintech,other,,,Wise Payments Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Yapily,fintech,other,,,Yapily Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+Zenobe,climate,other,,,Zenobe Energy Limited,,confirmed,,,"not on Ashby, Greenhouse or Lever: check the company careers page",2026-10-13
+ComplyAdvantage,fintech,greenhouse,complyadvantage,https://boards-api.greenhouse.io/v1/boards/complyadvantage/jobs?content=true,IVXS UK Limited,,to_confirm,6,Payroll Specialist,ComplyAdvantage's legal entity is believed to be IVXS UK Limited,2026-10-13
+Flock,fintech,ashby,flock,https://api.ashbyhq.com/posting-api/job-board/flock?includeCompensation=true,Flock Limited,London,to_confirm,8,,several Flock entities on the register; confirm which is the insurtech,2026-10-13
+Hopper,marketplace,ashby,hopper,https://api.ashbyhq.com/posting-api/job-board/hopper?includeCompensation=true,HOPPER UK INC. LTD,London,to_confirm,19,,check this is the travel app,2026-10-13
+Orbital,saas,ashby,orbital,https://api.ashbyhq.com/posting-api/job-board/orbital?includeCompensation=true,Orbital Witness Limited,London,to_confirm,8,,Orbital is believed to be the former Orbital Witness,2026-10-13
+Pigment,saas,lever,pigment,https://api.lever.co/v0/postings/pigment?mode=json,Pigment Global Limited,Cheshire,to_confirm,27,"Payroll & Benefits Specialist; Solution Consultant, Financial Consolidation - London; Solution Consultant, Financial Consolidation - Paris",registered in Cheshire; check this is the FP&A software company,2026-10-13
+Ramp,fintech,ashby,ramp,https://api.ashbyhq.com/posting-api/job-board/ramp?includeCompensation=true,Ramp Business UK Ltd,,to_confirm,22,"Financial Partnerships Manager, International; Director, Strategic Finance; Associate, Strategic Finance; Senior Associate, Strategic Finance",US company; check this is its UK entity,2026-10-13
+Speechmatics,saas,greenhouse,speechmatics,https://boards-api.greenhouse.io/v1/boards/speechmatics/jobs?content=true,CANTAB RESEARCH LIMITED,,to_confirm,11,,Speechmatics is believed to trade through Cantab Research Limited,2026-10-13
+Watershed,climate,ashby,watershed,https://api.ashbyhq.com/posting-api/job-board/watershed?includeCompensation=true,Watershed Technology Limited,London,to_confirm,8,Senior accountant; Corporate FP&A manager,US company; check this is its UK entity,2026-10-13
+Zego,fintech,ashby,zego,https://api.ashbyhq.com/posting-api/job-board/zego?includeCompensation=true,EXTRACOVER LIMITED,,to_confirm,26,,Zego's legal entity is believed to be Extracover Limited,2026-10-13
+Abacum,saas,ashby,abacum,https://api.ashbyhq.com/posting-api/job-board/abacum?includeCompensation=true,,,not_on_register,3,,no Skilled Worker licence found under the obvious names; recheck occasionally,2026-10-13
+Apothecom,health,greenhouse,apothecom,https://boards-api.greenhouse.io/v1/boards/apothecom/jobs?content=true,,,not_on_register,5,,no Skilled Worker licence found under the obvious names; recheck occasionally,2026-10-13
+Bigblue,marketplace,lever,bigblue,https://api.lever.co/v0/postings/bigblue?mode=json,,,not_on_register,1,,no Skilled Worker licence found under the obvious names; recheck occasionally,2026-10-13
+ClassPass,marketplace,greenhouse,classpass,https://boards-api.greenhouse.io/v1/boards/classpass/jobs?content=true,,,not_on_register,5,,no Skilled Worker licence found under the obvious names; recheck occasionally,2026-10-13
+Drata,saas,ashby,drata,https://api.ashbyhq.com/posting-api/job-board/drata?includeCompensation=true,,,not_on_register,20,,no Skilled Worker licence found under the obvious names; recheck occasionally,2026-10-13
+Epoch AI,saas,lever,epoch-ai,https://api.lever.co/v0/postings/epoch-ai?mode=json,,,not_on_register,7,,no Skilled Worker licence found under the obvious names; recheck occasionally,2026-10-13
+Hex,saas,ashby,hex,https://api.ashbyhq.com/posting-api/job-board/hex?includeCompensation=true,,,not_on_register,11,,no Skilled Worker licence found under the obvious names; recheck occasionally,2026-10-13
+Hinge Health,health,ashby,hinge-health,https://api.ashbyhq.com/posting-api/job-board/hinge-health?includeCompensation=true,,,not_on_register,14,,no Skilled Worker licence found under the obvious names; recheck occasionally,2026-10-13
+Lorikeet,saas,ashby,lorikeet,https://api.ashbyhq.com/posting-api/job-board/lorikeet?includeCompensation=true,,,not_on_register,3,Strategic Finance; Strategic Finance,no Skilled Worker licence found under the obvious names; recheck occasionally,2026-10-13
+Nory,saas,ashby,nory,https://api.ashbyhq.com/posting-api/job-board/nory?includeCompensation=true,,,not_on_register,3,Payroll Onboarding Specialist (Contract); FP&A Lead,no Skilled Worker licence found under the obvious names; recheck occasionally,2026-10-13
+Pennylane,fintech,ashby,pennylane,https://api.ashbyhq.com/posting-api/job-board/pennylane?includeCompensation=true,,,not_on_register,33,Consultant Finance and Digitalization (w/m/d) - Fintech SaaS Scale-Up,no Skilled Worker licence found under the obvious names; recheck occasionally,2026-10-13
+Reactive Markets,fintech,ashby,reactivemarkets,https://api.ashbyhq.com/posting-api/job-board/reactivemarkets?includeCompensation=true,,,not_on_register,6,,no Skilled Worker licence found under the obvious names; recheck occasionally,2026-10-13
+Supabase,saas,ashby,supabase,https://api.ashbyhq.com/posting-api/job-board/supabase?includeCompensation=true,,,not_on_register,52,People Business Partner - GTM,no Skilled Worker licence found under the obvious names; recheck occasionally,2026-10-13
+Swan,fintech,ashby,swan,https://api.ashbyhq.com/posting-api/job-board/swan?includeCompensation=true,,,not_on_register,1,,no Skilled Worker licence found under the obvious names; recheck occasionally,2026-10-13
+Vend Park,marketplace,ashby,vend-park,https://api.ashbyhq.com/posting-api/job-board/vend-park?includeCompensation=true,,,not_on_register,2,,no Skilled Worker licence found under the obvious names; recheck occasionally,2026-10-13
