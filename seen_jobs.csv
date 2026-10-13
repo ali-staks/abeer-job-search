@@ -1,12 +1,41 @@
-job_url,company,title,first_reported,status
-https://jobs.ashbyhq.com/solveintelligence/c08da7ba-3367-469b-b343-e05c35b08966,Solve Intelligence,Financial Operations Lead,2026-10-13,reported
-https://job-boards.greenhouse.io/monzo/jobs/8132044,Monzo,Senior Finance Business Partner,2026-10-13,reported
-https://jobs.smartrecruiters.com/Wise/744000154989915-balance-sheet-product-financials-controller,Wise,Balance Sheet & Product Financials Controller,2026-10-13,reported
-https://jobs.ashbyhq.com/humanoid/5a4eed85-daa1-4fc4-a487-96c9e16fc64b,Humanoid,Finance Operations Lead,2026-10-13,reported
-https://jobs.ashbyhq.com/happl/9da5bbdd-434d-4729-961f-b1ea0db4df5f,Happl,Finance Manager,2026-10-13,reported
-https://jobs.smartrecruiters.com/Wise/744000151023899-senior-finance-business-partner,Wise,Senior Finance Business Partner,2026-10-13,reported
-https://jobs.smartrecruiters.com/Wise/744000154943119-senior-finance-business-partner-12-months-ftc-,Wise,Senior Finance Business Partner (12 Months FTC),2026-10-13,reported
-https://jobs.ashbyhq.com/carwow/4c48158a-95aa-4cd6-b908-f649241eee2e,Carwow,Transactional Financial Controller,2026-10-13,reported
-https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4988215101,Tripledot Studios,Finance Manager,2026-10-13,reported
-https://job-boards.eu.greenhouse.io/nscaleoperationsukltd/jobs/4960404101,Nscale,Manager Finance Operations - Contract to Cash,2026-10-13,reported
-https://jobs.ashbyhq.com/lovable/7ee5ea78-9858-43c3-92b1-1d9a263414e1,Lovable,"Finance & BizOps, Marketing",2026-10-13,reported
+job_url,company,title,first_reported,status,note
+https://jobs.ashbyhq.com/solveintelligence/c08da7ba-3367-469b-b343-e05c35b08966,Solve Intelligence,Financial Operations Lead,2026-10-13,reported,
+https://job-boards.greenhouse.io/monzo/jobs/8132044,Monzo,Senior Finance Business Partner,2026-10-13,reported,
+https://jobs.smartrecruiters.com/Wise/744000154989915-balance-sheet-product-financials-controller,Wise,Balance Sheet & Product Financials Controller,2026-10-13,reported,
+https://jobs.ashbyhq.com/humanoid/5a4eed85-daa1-4fc4-a487-96c9e16fc64b,Humanoid,Finance Operations Lead,2026-10-13,reported,
+https://jobs.ashbyhq.com/happl/9da5bbdd-434d-4729-961f-b1ea0db4df5f,Happl,Finance Manager,2026-10-13,reported,
+https://jobs.smartrecruiters.com/Wise/744000151023899-senior-finance-business-partner,Wise,Senior Finance Business Partner,2026-10-13,reported,
+https://jobs.smartrecruiters.com/Wise/744000154943119-senior-finance-business-partner-12-months-ftc-,Wise,Senior Finance Business Partner (12 Months FTC),2026-10-13,reported,
+https://jobs.ashbyhq.com/carwow/4c48158a-95aa-4cd6-b908-f649241eee2e,Carwow,Transactional Financial Controller,2026-10-13,reported,
+https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4988215101,Tripledot Studios,Finance Manager,2026-10-13,reported,
+https://job-boards.eu.greenhouse.io/nscaleoperationsukltd/jobs/4960404101,Nscale,Manager Finance Operations - Contract to Cash,2026-10-13,reported,
+https://jobs.ashbyhq.com/lovable/7ee5ea78-9858-43c3-92b1-1d9a263414e1,Lovable,"Finance & BizOps, Marketing",2026-10-13,reported,
+https://jobs.lever.co/apolloresearch/e34b1560-aefd-448e-ae4e-b1804fa50a73,Apollo Research,Finance Manager,2026-10-13,excluded,no visa sponsorship; qualified accountant with 2+ years PQE required
+https://jobs.eu.lever.co/numan/de69e285-fb15-4bb1-84e0-a81ea7494a95,Numan,Senior Finance Manager,2026-10-13,excluded,ACA plus PQE required
+https://job-boards.greenhouse.io/tide/jobs/7809674003,Tide,Senior Financial Controller,2026-10-13,excluded,professional finance qualification required
+https://jobs.ashbyhq.com/accurx/1e2c454d-3f87-46fb-b5e8-e946fc40b3e3,Accurx,Head of Finance - 12 month FTC,2026-10-13,excluded,fully qualified accountant; Head of Finance at a large company
+https://jobs.lever.co/octoenergy/3c7b13ef-d81d-4e86-93f9-3d6ec6ce40f8,Octopus Energy,Senior Global Finance Manager,2026-10-13,excluded,qualified accountant with PQE required
+https://jobs.lever.co/octoenergy/3cb6fad7-16c3-4b86-b7e8-d26f25f8efe3,Octopus Electric Vehicles,Finance Manager,2026-10-13,excluded,Octopus Electric Vehicles entity not confirmed on register
+https://jobs.ashbyhq.com/capsa/51058e0d-40c0-4d75-81aa-467d323a66f6,Capsa AI,Head of Finance,2026-10-13,excluded,qualified accountant required
+https://jobs.ashbyhq.com/junior/63cc9d5e-7571-41e0-b8fe-e0ccf7d47d6f,Junior AI,Head of Finance,2026-10-13,excluded,accounting certification required
+https://jobs.ashbyhq.com/vitesse/e49c1b25-53a6-4385-90e5-57a5025f297c,Vitesse,Finance Manager,2026-10-13,excluded,qualified accountant required
+https://jobs.ashbyhq.com/metaview/2eb395c5-1c53-443d-bd1b-4201d2d0468f,Metaview,Finance Manager,2026-10-13,excluded,qualified accountant with years since qualifying
+https://jobs.ashbyhq.com/fanvue.com/7f2c1ec1-a6ba-4671-bc63-cecd1a77ef9f,Fanvue,Financial Controller,2026-10-13,excluded,4 to 6 years PQE; not on register
+https://semble.bamboohr.com/careers/210,Semble,Financial Controller,2026-10-13,excluded,ACA/ACCA/CIMA required; not on register
+https://www.dojo.careers/jobs/4976943101/?gh_jid=4976943101,Dojo,Senior Finance Manager,2026-10-13,excluded,accounting qualification required
+https://jobs.smartrecruiters.com/Wise/744000135440709-finance-business-partner-servicing-,Wise,Finance Business Partner - Servicing,2026-10-13,excluded,ad says no visa sponsorship
+https://job-boards.eu.greenhouse.io/bondsmith/jobs/4975543101,Bondsmith,Finance Manager,2026-10-13,excluded,right to work required; salary starts at £50k
+https://apply.workable.com/j/BF6F5520B8,Pact Coffee,Head of Finance,2026-10-13,excluded,"Your Grind Ltd not on register (£70k to £75k, no qualification needed)"
+https://jobs.ashbyhq.com/finmid.com/70db64dc-850b-486f-b789-e05111a92787,finmid,Finance Manager,2026-10-13,excluded,no UK entity on register; IB/PE background
+https://jobs.ashbyhq.com/lendable/e0abc246-3d3e-4268-9416-bb6652410d3f,Lendable,Financial Operations Executive,2026-10-13,excluded,junior; no reason to expect £55k
+https://job-boards.eu.greenhouse.io/occamindustries/jobs/4990036101,Occam Industries,Ops & Finance Ops Manager,2026-10-13,excluded,junior; not on register
+https://jobs.ashbyhq.com/getground/efdaf380-cad0-49ce-9e41-564a87631863,GetGround,Finance Business Partner,2026-10-13,excluded,strong fit but no salary and no concrete reason for £55k; report if a salary appears
+https://jobs.smartrecruiters.com/Wise/744000155266880-finance-senior-manager,Wise,Finance Senior Manager,2026-10-13,excluded,FP&A only
+https://jobs.ashbyhq.com/elevenlabs/a435a526-e2b3-4fcf-a732-0e70864178bb,ElevenLabs,Finance Systems Lead,2026-10-13,excluded,NetSuite administration role
+https://etsy.wd5.myworkdayjobs.com/Depop_Careers/job/London-UK/Finance-Integration-Lead_JR5643,Depop,Finance Integration Lead,2026-10-13,excluded,ERP and S2P integration project role
+https://job-boards.greenhouse.io/isomorphiclabs/jobs/6219244004,Isomorphic Labs,Senior Finance Business Partner (Drug Design and Development),2026-10-13,excluded,drug development finance experience essential
+https://jobs.ashbyhq.com/quantexa/213affda-a5f6-4926-9802-93833e8c4f65,Quantexa,Financial Controller (Process & Control),2026-10-13,excluded,Head of Finance or FC level experience required; very weak fit
+https://careers.geomiq.com/jobs/8126275-financial-controller,Geomiq,Financial Controller,2026-10-13,excluded,fully qualified plus 8+ years
+https://jobs.lever.co/sitetracker/24b302c9-23e2-4955-946a-f5157bf6c9d1,Sitetracker,International Financial Controller,2026-10-13,excluded,seven-entity consolidation and team management; very weak fit
+https://jobs.smartrecruiters.com/Wise/744000148767243-cash-controller,Wise,Cash Controller,2026-10-13,excluded,cash and treasury controlling
+https://careers.huma.com/jobs/financial-controller,Huma,Financial Controller,2026-10-13,excluded,closed 11 Sept 2026; PQE required
