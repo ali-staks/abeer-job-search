@@ -70,7 +70,7 @@ Finance and operations professional with over eight years' experience building a
   - Never delete rows.
 - **`seen_jobs.csv`:** add every job in the main list and the likely £55k+ list. Set `status` to `reported`, or `closed` once a previously reported job disappears from its feed.
 - **`runs/YYYY-MM-DD.md`:** the full results, in the format below.
-- Commit all changes with the message `Weekly search YYYY-MM-DD: N main, N likely` and push.
+- Commit all changes to the `main` branch with the message `Weekly search YYYY-MM-DD: N main, N likely`, then push to `main` (`git push origin HEAD:main`). Do not create a `claude/` branch or a pull request. If the push is rejected because `main` has moved on, pull, merge, and push again.
 
 ## Output
 
