@@ -1,6 +1,6 @@
 # Abeer job search
 
-A daily Claude routine that searches for UK finance and operations jobs for Abeer Kirmani. The jobs must pay at least £55,000 and come from employers licensed to sponsor a Skilled Worker visa. It covers both startups and large corporates.
+A Claude routine that runs on Mondays, Wednesdays, and Fridays, and searches for UK finance and operations jobs for Abeer Kirmani. The jobs must pay at least £55,000 and come from employers licensed to sponsor a Skilled Worker visa. It covers both startups and large corporates.
 
 - `PROMPT.md`: the routine prompt. Point the routine at this file (for example "Follow PROMPT.md in this repository"), so edits here take effect on the next run.
 - `abeer_companies.csv`: the companies to check, with job feeds and sponsor register results. The routine adds to it each run.
