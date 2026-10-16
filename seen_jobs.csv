@@ -1,10 +1,10 @@
 job_url,company,title,first_reported,status,note
 https://jobs.ashbyhq.com/solveintelligence/c08da7ba-3367-469b-b343-e05c35b08966,Solve Intelligence,Financial Operations Lead,2026-10-13,reported,
 https://job-boards.greenhouse.io/monzo/jobs/8132044,Monzo,Senior Finance Business Partner,2026-10-13,reported,
-https://jobs.smartrecruiters.com/Wise/744000154989915-balance-sheet-product-financials-controller,Wise,Balance Sheet & Product Financials Controller,2026-10-13,reported,
+https://jobs.smartrecruiters.com/Wise/744000154989915-balance-sheet-product-financials-controller,Wise,Balance Sheet & Product Financials Controller,2026-10-13,closed,inactive on SmartRecruiters 2026-10-16
 https://jobs.ashbyhq.com/humanoid/5a4eed85-daa1-4fc4-a487-96c9e16fc64b,Humanoid,Finance Operations Lead,2026-10-13,reported,
 https://jobs.ashbyhq.com/happl/9da5bbdd-434d-4729-961f-b1ea0db4df5f,Happl,Finance Manager,2026-10-13,reported,
-https://jobs.smartrecruiters.com/Wise/744000151023899-senior-finance-business-partner,Wise,Senior Finance Business Partner,2026-10-13,reported,
+https://jobs.smartrecruiters.com/Wise/744000151023899-senior-finance-business-partner,Wise,Senior Finance Business Partner,2026-10-13,closed,inactive on SmartRecruiters 2026-10-16
 https://jobs.smartrecruiters.com/Wise/744000154943119-senior-finance-business-partner-12-months-ftc-,Wise,Senior Finance Business Partner (12 Months FTC),2026-10-13,reported,
 https://jobs.ashbyhq.com/carwow/4c48158a-95aa-4cd6-b908-f649241eee2e,Carwow,Transactional Financial Controller,2026-10-13,reported,
 https://job-boards.eu.greenhouse.io/tripledotstudios/jobs/4988215101,Tripledot Studios,Finance Manager,2026-10-13,reported,
@@ -86,3 +86,20 @@ https://jobs.arup.com/jobs/finance-systems-project-manager-2-year-ftc-34335,Arup
 https://careers.edfenergy.com/job/business-process-transformation-manager-in-sunderland-jid-2373,EDF Energy UK,Business Process Transformation Manager,2026-10-14,excluded,"general process excellence, not finance"
 https://sky.talent-community.com/projects/programme-management-office-lead-(finance)/75224,Sky,Programme Management Office Lead (Finance),2026-10-14,excluded,ad says Sky does not offer sponsorship
 https://jobdetails.nestle.com/job/Dalston-Assistant-Factory-Controller-Dalston-Factory-CU-CA5-7NH/1442972033/,Nestle UK,Assistant Factory Controller - Dalston Factory,2026-10-14,excluded,£35k to £45k
+https://www.amazon.jobs/en/jobs/10579868/finance-manager-statutory-financial-reporting-and-compliance-accounting,Amazon UK,"Finance Manager, Statutory Financial Reporting and Compliance, Accounting",2026-10-16,reported,likely list
+https://jobs.ashbyhq.com/elevenlabs/4aaebda4-53be-424c-8246-cde77ff853bb,ElevenLabs,Company Operations Lead,2026-10-16,reported,likely list
+https://fa-eqid-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/128524,Marks & Spencer,Finance Manager - Homeware & Furniture,2026-10-16,excluded,"location given only as United Kingdom, no salary; qualified accountant with PQE preferred"
+https://jobs.vodafone.com/careers/job/563018697072508,Vodafone UK,VodafoneThree - Segment Channel Lead Commercial Finance,2026-10-16,excluded,"Newbury, no salary or band; commercial leadership role"
+https://jobs.smartrecruiters.com/InformaGroupPlc/744000155494449,Informa,EMEA Payroll Liaison Officer,2026-10-16,excluded,"officer level in Colchester, no salary or band"
+https://apply.remote.com/jobs/010651de-9f5a-4443-9248-56bb8a2f6dc7,Remote.com,Payroll Client Services Specialist Lead - UK,2026-10-16,excluded,"range USD 30,700 to 69,050, below £55k"
+https://jobs.ashbyhq.com/motorway/5ba2c031-0c00-46ce-bbb2-9044852a0b9d,Motorway,Head of Financial Control,2026-10-16,excluded,qualified accountant with substantial PQE required
+https://jobs.ashbyhq.com/trainline/1b7e88a1-83b6-4722-ac8f-1422d41895e6,Trainline,Head of Financial Control - Management Accounting 3 Month FTC,2026-10-16,excluded,repost of excluded role; head of financial control at large company
+https://careers.edfenergy.com/job/group-financial-controller-in-sunderland-jid-2400,EDF Energy UK,Group Financial Controller,2026-10-16,excluded,group consolidation and finance leadership; qualified accountant
+https://apply.mottmac.com/job/Croydon-Divisional-Finance-Manager/1374172257/,Mott MacDonald,Divisional Finance Manager,2026-10-16,excluded,ad says no Skilled Worker sponsorship; ACA/ACCA/CIMA required
+https://www.whitbreadcareers.com/job-details/218161-4492/finance_team_leader,Whitbread,Finance Team Leader,2026-10-16,excluded,hotel role at £14.36 per hour
+https://careers.tesco.com/en_GB/careers/JobDetail/Finance-Manager-CCH-Tagetik/202738,Tesco,Finance Manager CCH Tagetik,2026-10-16,excluded,"actually FP&A Systems Analyst, Welwyn, posted 8 Sept"
+https://jobs.ea.com/en_US/careers/JobDetail/Senior-Finance-Manager-EA-Mobile/216075,Electronic Arts UK,"Senior Finance Manager, EA Mobile",2026-10-16,excluded,"Vancouver or California, not UK"
+https://jobs.arup.com/jobs/senior-manager-manager-finance-business-partnering-apac-34980,Arup,"Senior Manager / Manager, Finance Business Partnering, APAC",2026-10-16,excluded,"Singapore, not UK"
+https://jobs.nationalgrid.com/uk/jobs/12011/senior-business-partner-finance-business-partnering/,National Grid,"Senior Business Partner, Finance Business Partnering",2026-10-16,excluded,"Brooklyn, US"
+https://jobs.nationalgrid.com/uk/jobs/12012/lead-business-partner-finance-business-partnering/,National Grid,"Lead Business Partner, Finance Business Partnering",2026-10-16,excluded,"Syracuse, US"
+https://jobs.nationalgrid.com/uk/jobs/12147/continuous-improvement-and-automation-lead/,National Grid,Continuous Improvement and Automation Lead,2026-10-16,excluded,"Melville, US"
